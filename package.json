@@ -1,0 +1,23 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parveshmourya/investo-twitter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parveshmourya/investo-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/parveshmourya/investo-twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
